@@ -3,12 +3,8 @@
 - 🔭 I'm a Software Engineering student.
 - 🌱 I'm learning Python, APIs, CRUD, MySQL, CSS, JavaScript and HTML.
 - 👯 Moving on to the full-stack area.
-  
-<div>
-  <a href="https://github.com/cayres0802"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cayres0802&show_icons=true&theme=rose&include_all_comits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayres0802&layout=compact&langs_count=16&theme=rose"/>
-</div>  
+
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Clara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

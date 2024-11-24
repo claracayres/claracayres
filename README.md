@@ -2,7 +2,8 @@
 
 - 🔭 I'm a Software Engineering student.
 - 🌱 I'm learning Python, APIs, CRUD, MySQL, CSS, JavaScript and HTML.
-- 👯 Moving on to the full-stack area.
+- 👯 Moving on to the full-stack area. <br>
+<br>
   Portfolio - https://cayres0802.github.io
  
 

@@ -4,7 +4,7 @@
 - 🌱 I'm learning Python, APIs, CRUD, MySQL, CSS, JavaScript and HTML.
 - 👯 Moving on to the full-stack area. <br>
 <br>
-  Portfolio - [https://cayres0802.github.io](https://claracayres-portfolio.vercel.app)
+  Portfolio - https://claracayres-portfolio.vercel.app
  
 
 <div style="display: inline_block"><br>

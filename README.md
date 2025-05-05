@@ -1,7 +1,7 @@
 ## Heyyy!! I'm Maria Clara(❁´◡`❁)
 
 - 🔭 I'm a Software Engineering student.
-- 🌱 I'm learning Python, APIs, CRUD, MySQL, CSS, JavaScript and HTML.
+- 🌱 I'm learning Python, APIs, CRUD, MySQL, CSS, JavaScript, HTML, React, Vite and Tailwind.
 - 👯 Moving on to the full-stack area. <br>
 <br>
   Portfolio - https://claracayres-portfolio.vercel.app

@@ -5,20 +5,23 @@
 - 👯 Moving on to the full-stack area. <br>
 <br>
   Portfolio - https://claracayres-portfolio.vercel.app
- 
+
+  [![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=claracayres&show_icons=true&theme=jolly&rank_icon=github&include_all_commits=true&hide=stars)](https://github.com/claracayres/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claracayres&show_icons=true&theme=jolly&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/claracayres/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Clara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Clara-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Clara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Clara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Clara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Clara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Clara-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
-  <img align="right" alt="Clara-gif" height="100" width="100" src="https://media.discordapp.net/attachments/1254591841496727685/1254591874354643026/download.gif?ex=667a0d3c&is=6678bbbc&hm=3a1a746392d3f875a0ec192611356acf80fd393a7bc5010d23a7136f098f558e&=&width=618&height=618">
+  <img align="center" alt="Clara-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Clara-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="Clara-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Clara-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
 </div>
- 
+
  ##
 <div> 
   <a href = "mailto:clara.cayres1205@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

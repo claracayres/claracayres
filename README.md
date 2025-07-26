@@ -36,6 +36,8 @@
   <img alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img alt="Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img alt="Vite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
+  <img alt="Vercel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg">
 </div>
 
 </div>

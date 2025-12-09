@@ -4,10 +4,12 @@
 
 </div>
 
-- 🎓 Recently completed the **IBM Back-End Development Professional Certificate** — certified and ready to rock backend!
-- 🌱 Currently diving into **Meta Front-End Developer** course and loving the world of UI/UX, React, and modern frontend technologies.
-- 🚀 Passionate about exploring the **front-end**, but excited to keep deepening my skills in **back-end** development to become a true full-stack developer.
-- 🛠️ Comfortable working with **Python**, **APIs**, **CRUD**, **MySQL**, **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind**, **Vite**, **Django**, **Flask**, **Docker**, and more.
+- 🎓 Completed the IBM Back-End Development Professional Certificate — backend foundations on point.
+- 💻 Finished the Meta Front-End Developer Professional Certificate — fully immersed in modern frontend workflow, React ecosystem, and UI fundamentals.
+- 🎨 Currently leveling up in UI/UX Design with the Zero to Mastery Web & Mobile Design course, exploring visual design systems, wireframing, prototyping, and user-centered design.
+- 🚀 Building my path toward becoming a strong full-stack developer with clean code, great user experience, and scalable structure.
+- 🛠️ Experienced with:
+      Python, Django, Flask, APIs, CRUD, MySQL, HTML, CSS, JavaScript, React, Tailwind, Vite, Docker, and design tools like Figma.
 
 📌 **Portfolio:** [claracayres-portfolio.vercel.app](https://claracayres-portfolio.vercel.app)
 

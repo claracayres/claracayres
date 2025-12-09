@@ -17,15 +17,6 @@
 
 <div align="center">
 
-[![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=claracayres&show_icons=true&theme=jolly&rank_icon=github&include_all_commits=true&hide=stars)](https://github.com/claracayres/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claracayres&show_icons=true&theme=jolly&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/claracayres/github-readme-stats)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🛠️ Tech Stack
 
 <div style="display: inline_block"><br>

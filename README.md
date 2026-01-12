@@ -11,8 +11,8 @@ Currently shaping my path toward becoming a **strong full-stack developer**, com
 
 ### About Me
 
-- **IBM Back-End Development Professional Certificate** — strong backend foundations, APIs, and databases.
-- **Meta Front-End Developer Professional Certificate** — modern frontend workflow, React ecosystem, and UI fundamentals.
+- **IBM Back-End Development Professional Certificate** - strong backend foundations, APIs, and databases.
+- **Meta Front-End Developer Professional Certificate** - modern frontend workflow, React ecosystem, and UI fundamentals.
 - Currently improving my **UI/UX Design** skills with the *Zero to Mastery Web & Mobile Design* course, exploring design systems, wireframing, prototyping, and user-centered design.
 - Focused on writing clean code, building scalable applications, and delivering great user experiences.
 - Experience with:
@@ -60,6 +60,18 @@ Currently shaping my path toward becoming a **strong full-stack developer**, com
 
 ---
 
+<div align="center">
+
+## ☕ Support & Recognition
+
+If you enjoy my work or find my projects helpful, feel free to leave a ⭐ on any repository.  
+You can also support my work by buying me a coffee, it truly means a lot and helps me keep creating! ☕✨
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/claracayres)
+
+</div>
+
+---
 <div align="center">
   <img src="https://raw.githubusercontent.com/claracayres/claracayres/output/ocean.gif" alt="snake gif" />
 </div>

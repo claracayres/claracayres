@@ -1,6 +1,6 @@
 <div align="center">
 
-## Heyyy!! I'm Maria Clara ✨
+## Heyyy!! I'm Clara ✨
 
 </div>
 

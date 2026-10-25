@@ -4,19 +4,17 @@
 
 </div>
 
-I'm a **Software Engineering student**, **freelance Web Developer**, and a curious lifelong learner who loves building clean, user-focused digital experiences.  
-Currently shaping my path toward becoming a **strong full-stack developer**, combining solid backend foundations with modern frontend and UI/UX design.
+I'm a **Software Engineering student**, **freelance Web Developer**, and aspiring **Data Analyst** passionate about technology, problem-solving, and turning data into meaningful insights. Currently focusing on **Data Analytics, Python, SQL, and Data Visualization**, while building practical projects and expanding my analytical skills.
 
 ---
 
 ### About Me
-
-- **IBM Back-End Development Professional Certificate** - strong backend foundations, APIs, and databases.
-- **Meta Front-End Developer Professional Certificate** - modern frontend workflow, React ecosystem, and UI fundamentals.
-- Currently improving my **UI/UX Design** skills with the *Zero to Mastery Web & Mobile Design* course, exploring design systems, wireframing, prototyping, and user-centered design.
-- Focused on writing clean code, building scalable applications, and delivering great user experiences.
-- Experience with:
-  **Python, Django, Flask, APIs, CRUD, MySQL, HTML, CSS, JavaScript, React, Tailwind, Vite, Docker, MongoDB**, and design tools like **Figma**.
+- 🎓 Software Engineering student with a background in web development and databases.
+- 📊 Currently learning **Data Analytics, Python, SQL, Excel, and Power BI.**
+- 🐍 Interested in **Data Analysis, Business Intelligence, and Data Visualization.**
+- 💻 Experience with **Python, PostgreSQL, MongoDB, REST APIs, JavaScript, and React.**
+- 🚀 Building hands-on projects to strengthen my analytical and technical skills.
+- 🎯 Looking for **entry-level and internship opportunities in Data Analytics.**
 
 **Portfolio:**  
 [claracayres-portfolio.vercel.app](https://claracayres-portfolio.vercel.app)
